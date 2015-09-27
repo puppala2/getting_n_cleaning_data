@@ -1,7 +1,7 @@
 Introduction:
 ======================================
 
-This is the programming assignment for Getting and Cleaning Data course in Data Science, Coursera course. The assignment requires downloading the data collected using Samsung smart phones which are equipped with the accelerometers and gyroscopes, which generateed the sensor readings for 6 different activities. The task includes downloading the data, understand the requirements, understand the data structure, read the data into R data sets, clean the data, merge the data, generate tidy data, and finally generate the summary data.
+This is the programming assignment for Getting and Cleaning Data course in Data Science, Coursera course. The assignment requires downloading the data which has been collected using Samsung smart phones. The phones are equipped with the accelerometers and gyroscopes, which generateed the sensor readings for 6 different activities. The task includes downloading the data, understand the requirements, understand the data structure, read the data into R data sets, clean the data, merge the data, generate tidy data, and finally generate the summary data.
 
 
 For each record it is provided:
